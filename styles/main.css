@@ -5,7 +5,7 @@ main {
 
 /* Booking part */
 .booking {
-  background-image: url(../hero-Travel/image/booking.png);
+  background-image: url(../image/booking.png);
   background-repeat: no-repeat;
   width: 100%;
   height: 500px;
@@ -87,7 +87,7 @@ main {
 /* Responsive booking part */
 @media screen and (max-width: 592px) {
   .booking {
-    background-image: url(../hero-Travel/image/booking.png);
+    background-image: url(../image/booking.png);
     background-repeat: no-repeat;
     width: 335px;
     height: 500px;
@@ -566,7 +566,7 @@ main {
   display: flex;
   justify-content: end;
   align-items: end;
-  background: url("../hero-Travel/image/news.png"),
+  background: url("../image/news.png"),
     lightgray 50% / cover no-repeat;
 }
 /* Responsive Newsletter section */
